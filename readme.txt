@@ -1,0 +1,1 @@
+MultiUI is an interface management utility built for Neoloader. It allows for in-game switching between valid interfaces, and (todo) allows redirection of iup locations.
